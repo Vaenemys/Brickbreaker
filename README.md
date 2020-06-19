@@ -6,4 +6,4 @@ Le score s'affichera dans la console car je n'ai pas eu le temps de l'implément
 
 Les touches pour faire bouger la raquette sont les touches directionnelles gauche et droite
 
-Vous pouvez changer la vitesse de la balle à la ligne 31
+Vous pouvez changer la vitesse de la balle à la ligne 31 de Cassebrique.py
